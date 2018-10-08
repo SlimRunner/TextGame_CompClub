@@ -1,6 +1,6 @@
 # TextGame_CompClub
 
-##Instructions - Visual Studio
+## Instructions - Visual Studio
 1. Go to the menu **File -> New -> Project**
 1. Select **Visual C++** from the left pane
 1. Choose **Empty Project** †(for earlier versions see below)
